@@ -1,0 +1,27 @@
+{
+  "name": "elastic-node",
+  "version": "1.0.0",
+  "description": "search engine suin node.js, vue.js and Elasticsearch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renaissancenerd/Search-Engine.git"
+  },
+  "keywords": [
+    "node",
+    "vue",
+    "elasticsearch"
+  ],
+  "author": "Vatsal Limbachia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renaissancenerd/Search-Engine/issues"
+  },
+  "homepage": "https://github.com/renaissancenerd/Search-Engine#readme",
+  "dependencies": {
+    "cities.json": "^1.1.5"
+  }
+}
